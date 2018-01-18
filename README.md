@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flumber.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flumber?ref=badge_shield)
+
 lumber
 ======
 
@@ -69,3 +71,7 @@ TRUNC: Open and truncate the file, regardless of whether it already exists
 BACKUP: Rotate the log every time a new logger is created
 
 ROTATE: Append if the file exists, when the log reaches maxLines rotate files
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flumber.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flumber?ref=badge_large)
